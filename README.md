@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/hansaray/NetListener.svg)](https://jitpack.io/#hansaray/NetListener)
 # NetListener
 An android library to implement listener for network and internet connection.
 

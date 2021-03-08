@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetListener</string>
+    <string name="NoConnection">No internet connection</string>
+</resources>

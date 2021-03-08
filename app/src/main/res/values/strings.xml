@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetListener</string>
+    <string name="activity1">Only SnackBar</string>
+    <string name="next">Next to ShowOnce</string>
+    <string name="next2">Next to ShowLive</string>
+    <string name="no_internet">There is no internet connection! \t Please check your connection and try again.</string>
+    <string name="internet">You are connected to the internet</string>
+</resources>

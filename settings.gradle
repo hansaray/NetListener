@@ -1,0 +1,3 @@
+include ':netlistener'
+include ':app'
+rootProject.name = "NetListener"
